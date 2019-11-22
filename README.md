@@ -20,5 +20,5 @@ Internally you can find the project organized as follows:
 - From an IDE of your choice:
 Import the project in your preferred IDE, open the class ***JsonPlaceHolderTests.java*** and click the RUN button. You can also right click the mentioned class and choose the option "Run As > TestNG Test".
 
-- From maven:
+- Using maven:
 From a command line tool, access the folder "jpmorgan-tech-task" and then execute the following command: ***mvn clean test***
