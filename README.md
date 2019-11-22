@@ -10,7 +10,7 @@ Internally you can find the project organized as follows:
 
 [MODULE backend-tests]
 - `src/test/java`: contains the implementation of the tests, step definitions and test classes;
-- `src/test/resources`: contains feature files with test scenario descriptions, as well as a properties file which specifies some variables;
+- `src/test/resources`: contains feature files with test scenario descriptions, as well as a properties file which specifies some variables and Spring configurations;
 
 [MODULE core]
 - `src/main/java`: consists of a simple framework for automating tests in a more reusable and maintainable way;
